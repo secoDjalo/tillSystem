@@ -1,0 +1,43 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\bin\Debug\MyTill.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\bin\Debug\MyTill.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\bin\Debug\MyTill.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\bin\Debug\MyTill.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.LogIn.resources
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.MainWindow.resources
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.UpdateInfo.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\bin\Debug\SystemDB.accdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.Payment.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.Keyboard.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.Receipt.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.Transactions.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MyTill\MyTill\obj\Debug\MyTill.History.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\bin\Debug\SystemDB.accdb
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\bin\Debug\MyTill.exe.config
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\bin\Debug\MyTill.exe
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\bin\Debug\MyTill.pdb
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\bin\Debug\MyTill.xml
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.vbprojAssemblyReference.cache
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.History.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.Keyboard.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.LogIn.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.MainWindow.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.Payment.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.Receipt.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.Transactions.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.UpdateInfo.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.Resources.resources
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.vbproj.GenerateResource.cache
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.vbproj.CoreCompileInputs.cache
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.vbproj.CopyComplete
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.exe
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.xml
+C:\Users\sheck\Documents\Projects\MyTill\MyTill\obj\Debug\MyTill.pdb

@@ -1,0 +1,16 @@
+Classic Gold
+Served By:       Seco Djalo
+
+Fanta               £1.99
+
+Pepsi               £1.99
+
+Sumol               £1.99
+
+7 Up                £1.89
+
+7 Up                £1.99
+Total       £9.85
+Amount Paid       £10.00
+Change       £0.15
+13 Sep 2017  01:55:20
