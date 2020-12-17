@@ -151,11 +151,6 @@ Public Class MainWindow
             productPrice = Math.Round(productPrice, 2)
         End If
 
-        
-
-        'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(0).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(0).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -183,7 +178,6 @@ Public Class MainWindow
 
         SelectedItemPrice = 0
         percentage = 0
-        'selectedItem = ""
 
         'hides the button reset prices
         btnResetPrices.Visible = False
@@ -218,10 +212,6 @@ Public Class MainWindow
             productPrice = Math.Round(productPrice, 2)
         End If
 
-        'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(1).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
-
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(1).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
         'Getting the selected item price to then remove it from the total amount
@@ -254,8 +244,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(2).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(2).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -284,8 +272,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(3).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(3).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -312,8 +298,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(4).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(4).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -340,8 +324,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(5).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(5).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -367,8 +349,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(6).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(6).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -394,8 +374,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(7).Item(1) + "        " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(7).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -422,8 +400,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(8).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(8).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -450,8 +426,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(9).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(9).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -478,8 +452,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(10).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(10).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -506,8 +478,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(11).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(11).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -534,8 +504,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(12).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(12).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -562,8 +530,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(13).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(13).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -590,8 +556,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(14).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(14).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -618,8 +582,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(15).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(15).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -646,8 +608,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(16).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(16).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -674,8 +634,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(17).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(17).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -702,8 +660,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(18).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(18).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -730,8 +686,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(19).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(19).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -758,8 +712,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(20).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(20).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -786,8 +738,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(21).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(21).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -814,8 +764,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(22).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(22).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 
@@ -842,8 +790,6 @@ Public Class MainWindow
         End If
 
         'Add item to the list box
-        'textInRecipt = System.Environment.NewLine + ds.Tables("SystemDB").Rows(23).Item(1) + "       " & +productPrice
-        'Receipt.Items.Add(textInRecipt)
 
         Receipt.Items.Add(System.Environment.NewLine + ds.Tables("SystemDB").Rows(23).Item(1).ToString.PadRight(20) + productPrice.ToString("c"))
 

@@ -10,15 +10,15 @@
         Dim newFont As New Font(New FontFamily("Courier New"), 12) ' Define a fixed-width font for PadRight tabbing.
         ListBox1.Font = newFont ' Employ the fixed-width font in the List Box.
 
-        'ListBox1.Items.AddRange(Payment.PaymentReceipt.Items)
+
         lblServer.Text = MainWindow.lblUserName.Text
         lblTotal.Text = Payment.lblTotalToBePaid.Text
         lblAP.Text = Payment.lblTotalEntered.Text
         lblChange.Text = Payment.lblChangeToBeGiven.Text
 
-        'Dim objReader As New System.IO.StreamReader(Payment.fileName)
+
         ListBox1.Items.AddRange(Payment.PaymentReceipt.Items)
-        'objReader.Close()
+
 
     End Sub
 
